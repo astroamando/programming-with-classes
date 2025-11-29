@@ -1,0 +1,41 @@
+# YouTube Video Tracking Program - C# Abstraction
+
+Este projeto foi desenvolvido como parte da Atribuição da Semana 04 (W04) para demonstrar o princípio de **Abstração** em Programação Orientada a Objetos (POO) usando C#.
+
+O programa simula um sistema de rastreamento de vídeos do YouTube e seus comentários, utilizando classes separadas para organizar as responsabilidades.
+
+## 📋 Funcionalidades
+
+* **Classe Video:** Armazena título, autor, duração e uma lista de comentários. Possui um método para calcular o total de comentários.
+* **Classe Comment:** Armazena o nome do autor do comentário e o texto.
+* **Execução Principal:** Cria vídeos de exemplo, adiciona comentários a eles e exibe os detalhes formatados no terminal.
+
+## 🛠️ Tecnologias Utilizadas
+
+* C# (Linguagem de Programação)
+* .NET 8.0 SDK (Platforma de Desenvolvimento)
+* Visual Studio Code (IDE)
+
+## 🚀 Como Rodar o Projeto
+
+Se você deseja executar este projeto na sua máquina, siga os passos abaixo:
+
+### 1. Pré-requisitos
+Certifique-se de ter o **.NET SDK** instalado.
+* Para verificar se já tem, digite no terminal: `dotnet --version`
+* Se não tiver, baixe aqui: [Download .NET SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+
+### 2. Clonar ou Baixar
+Baixe os arquivos deste repositório para uma pasta local.
+
+### 3. Estrutura de Arquivos
+Certifique-se de que os três arquivos principais estão na mesma pasta:
+* `Program.cs` (Lógica principal)
+* `Video.cs` (Classe do Vídeo)
+* `Comment.cs` (Classe do Comentário)
+
+### 4. Executar
+Abra o terminal na pasta do projeto e execute o comando:
+
+```bash
+dotnet run

@@ -1,0 +1,31 @@
+# Online Ordering System - C# Encapsulation
+
+Este projeto foi desenvolvido como parte da Atribuição da Semana 04 (W04) para demonstrar o princípio de **Encapsulamento** em Programação Orientada a Objetos (POO).
+
+O sistema simula o processamento de pedidos online, calculando o preço total (com regras de frete baseadas na localização) e gerando etiquetas de envio e embalagem.
+
+## 📋 Funcionalidades
+
+* **Cálculo de Custo Total:** Soma o valor dos produtos e adiciona o frete automaticamente.
+    * Frete para EUA: $5.00
+    * Frete Internacional (fora dos EUA): $35.00
+* **Geração de Etiquetas:**
+    * **Packing Label:** Lista o nome e ID de cada produto na caixa.
+    * **Shipping Label:** Lista o nome e o endereço completo do cliente.
+* **Encapsulamento:** Todas as variáveis de membro são `private`, acessadas apenas por métodos públicos (Getters/Setters e Construtores).
+
+## 🛠️ Tecnologias Utilizadas
+
+* C# (Linguagem de Programação)
+* .NET 8.0 SDK
+* Visual Studio Code
+
+## 🚀 Como Rodar o Projeto
+
+1.  Certifique-se de ter o **.NET SDK** instalado.
+2.  Navegue até a pasta do projeto no terminal.
+3.  Verifique se os 5 arquivos estão presentes: `Program.cs`, `Order.cs`, `Product.cs`, `Customer.cs`, `Address.cs`.
+4.  Execute o comando:
+
+```bash
+dotnet run

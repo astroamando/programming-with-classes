@@ -1,0 +1,14 @@
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\OnlineOrdering - W04\bin\Debug\net8.0\OnlineOrdering - W04.exe
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\OnlineOrdering - W04\bin\Debug\net8.0\OnlineOrdering - W04.deps.json
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\OnlineOrdering - W04\bin\Debug\net8.0\OnlineOrdering - W04.runtimeconfig.json
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\OnlineOrdering - W04\bin\Debug\net8.0\OnlineOrdering - W04.dll
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\OnlineOrdering - W04\bin\Debug\net8.0\OnlineOrdering - W04.pdb
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\OnlineOrdering - W04\obj\Debug\net8.0\OnlineOrdering - W04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\OnlineOrdering - W04\obj\Debug\net8.0\OnlineOrdering - W04.AssemblyInfoInputs.cache
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\OnlineOrdering - W04\obj\Debug\net8.0\OnlineOrdering - W04.AssemblyInfo.cs
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\OnlineOrdering - W04\obj\Debug\net8.0\OnlineOrdering - W04.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\OnlineOrdering - W04\obj\Debug\net8.0\OnlineOrdering - W04.dll
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\OnlineOrdering - W04\obj\Debug\net8.0\refint\OnlineOrdering - W04.dll
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\OnlineOrdering - W04\obj\Debug\net8.0\OnlineOrdering - W04.pdb
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\OnlineOrdering - W04\obj\Debug\net8.0\OnlineOrdering - W04.genruntimeconfig.cache
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\OnlineOrdering - W04\obj\Debug\net8.0\ref\OnlineOrdering - W04.dll

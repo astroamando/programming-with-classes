@@ -1,0 +1,14 @@
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\Abstração e Listas\obj\Debug\net8.0\Abstração e Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\Abstração e Listas\obj\Debug\net8.0\Abstração e Listas.AssemblyInfoInputs.cache
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\Abstração e Listas\obj\Debug\net8.0\Abstração e Listas.AssemblyInfo.cs
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\Abstração e Listas\obj\Debug\net8.0\Abstração e Listas.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\Abstração e Listas\bin\Debug\net8.0\Abstração e Listas.exe
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\Abstração e Listas\bin\Debug\net8.0\Abstração e Listas.deps.json
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\Abstração e Listas\bin\Debug\net8.0\Abstração e Listas.runtimeconfig.json
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\Abstração e Listas\bin\Debug\net8.0\Abstração e Listas.dll
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\Abstração e Listas\bin\Debug\net8.0\Abstração e Listas.pdb
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\Abstração e Listas\obj\Debug\net8.0\Abstração e Listas.dll
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\Abstração e Listas\obj\Debug\net8.0\refint\Abstração e Listas.dll
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\Abstração e Listas\obj\Debug\net8.0\Abstração e Listas.pdb
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\Abstração e Listas\obj\Debug\net8.0\Abstração e Listas.genruntimeconfig.cache
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\Abstração e Listas\obj\Debug\net8.0\ref\Abstração e Listas.dll
