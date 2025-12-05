@@ -1,0 +1,14 @@
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\Programming\Week 05 Inheritance\W05 Mindfulness\bin\Debug\net8.0\W05 Mindfulness.exe
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\Programming\Week 05 Inheritance\W05 Mindfulness\bin\Debug\net8.0\W05 Mindfulness.deps.json
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\Programming\Week 05 Inheritance\W05 Mindfulness\bin\Debug\net8.0\W05 Mindfulness.runtimeconfig.json
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\Programming\Week 05 Inheritance\W05 Mindfulness\bin\Debug\net8.0\W05 Mindfulness.dll
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\Programming\Week 05 Inheritance\W05 Mindfulness\bin\Debug\net8.0\W05 Mindfulness.pdb
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\Programming\Week 05 Inheritance\W05 Mindfulness\obj\Debug\net8.0\W05 Mindfulness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\Programming\Week 05 Inheritance\W05 Mindfulness\obj\Debug\net8.0\W05 Mindfulness.AssemblyInfoInputs.cache
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\Programming\Week 05 Inheritance\W05 Mindfulness\obj\Debug\net8.0\W05 Mindfulness.AssemblyInfo.cs
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\Programming\Week 05 Inheritance\W05 Mindfulness\obj\Debug\net8.0\W05 Mindfulness.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\Programming\Week 05 Inheritance\W05 Mindfulness\obj\Debug\net8.0\W05 Mindfulness.dll
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\Programming\Week 05 Inheritance\W05 Mindfulness\obj\Debug\net8.0\refint\W05 Mindfulness.dll
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\Programming\Week 05 Inheritance\W05 Mindfulness\obj\Debug\net8.0\W05 Mindfulness.pdb
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\Programming\Week 05 Inheritance\W05 Mindfulness\obj\Debug\net8.0\W05 Mindfulness.genruntimeconfig.cache
+C:\Users\Raphael\Documents\_TRABALHOS\AMANDIO\Programming\Week 05 Inheritance\W05 Mindfulness\obj\Debug\net8.0\ref\W05 Mindfulness.dll
