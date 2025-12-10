@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W05 Mindfulness", "W05 Project -  Mindfulness Program\W05 Mindfulness.csproj", "{294C3FBF-E04C-B5FE-2033-6EF9C09A9B33}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "W05 Project -  Mindfulness Program", "W05 Project -  Mindfulness Program", "{78FADA4D-1FC9-9F38-420B-A8FF52246A6D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "week04", "week04", "{AE61C528-FF0A-A1A2-0584-FA705841A90E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W05 Mindfulness", "W05 Project -  Mindfulness Program\w5projectmindfulnessprogram\W05 Mindfulness.csproj", "{308E6A80-43E9-19FF-B30B-36993024BEC4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Abstração e Listas - W04 - PROGRAMMING WITH CLASSES", "Abstração e Listas - W04 - PROGRAMMING WITH CLASSES", "{A6ABE6A8-7801-BD11-9BE3-BD4A3936833B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstração e Listas", "week04\Abstração e Listas - W04 - PROGRAMMING WITH CLASSES\Abstração e Listas\Abstração e Listas.csproj", "{CF3AD682-45D8-E71F-0FE7-5CF3C7D41136}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OnlineOrdering - W04  - PROGRAMMING WITH CLASSES", "OnlineOrdering - W04  - PROGRAMMING WITH CLASSES", "{26FE2B5E-8926-402C-7A87-5936ABAEF910}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineOrdering - W04", "week04\OnlineOrdering - W04  - PROGRAMMING WITH CLASSES\OnlineOrdering - W04\OnlineOrdering - W04.csproj", "{1D5816CB-E3B2-C5F3-82CE-BCFEAAC41E73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{294C3FBF-E04C-B5FE-2033-6EF9C09A9B33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294C3FBF-E04C-B5FE-2033-6EF9C09A9B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294C3FBF-E04C-B5FE-2033-6EF9C09A9B33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294C3FBF-E04C-B5FE-2033-6EF9C09A9B33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{308E6A80-43E9-19FF-B30B-36993024BEC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{308E6A80-43E9-19FF-B30B-36993024BEC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{308E6A80-43E9-19FF-B30B-36993024BEC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{308E6A80-43E9-19FF-B30B-36993024BEC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF3AD682-45D8-E71F-0FE7-5CF3C7D41136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF3AD682-45D8-E71F-0FE7-5CF3C7D41136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF3AD682-45D8-E71F-0FE7-5CF3C7D41136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF3AD682-45D8-E71F-0FE7-5CF3C7D41136}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D5816CB-E3B2-C5F3-82CE-BCFEAAC41E73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D5816CB-E3B2-C5F3-82CE-BCFEAAC41E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D5816CB-E3B2-C5F3-82CE-BCFEAAC41E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D5816CB-E3B2-C5F3-82CE-BCFEAAC41E73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{308E6A80-43E9-19FF-B30B-36993024BEC4} = {78FADA4D-1FC9-9F38-420B-A8FF52246A6D}
+		{A6ABE6A8-7801-BD11-9BE3-BD4A3936833B} = {AE61C528-FF0A-A1A2-0584-FA705841A90E}
+		{CF3AD682-45D8-E71F-0FE7-5CF3C7D41136} = {A6ABE6A8-7801-BD11-9BE3-BD4A3936833B}
+		{26FE2B5E-8926-402C-7A87-5936ABAEF910} = {AE61C528-FF0A-A1A2-0584-FA705841A90E}
+		{1D5816CB-E3B2-C5F3-82CE-BCFEAAC41E73} = {26FE2B5E-8926-402C-7A87-5936ABAEF910}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {906F7CE8-0BC1-4779-8608-C7C8C49332A7}
+	EndGlobalSection
+EndGlobal
